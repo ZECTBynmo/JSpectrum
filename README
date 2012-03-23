@@ -1,0 +1,1 @@
+JSpectrum is a HTML5 and jQuery based plugin. It runs real time DSP to analyze the browsers audio output, and displays the frequency spectrum of that audio.
